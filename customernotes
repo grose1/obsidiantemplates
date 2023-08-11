@@ -1,0 +1,17 @@
+
+<mark class="green">creation date: {{date}}</mark>
+<br>
+>[!info] ### Contact
+>> [!abstract] Name:
+>> **Phone:**
+>> **Email:**
+>> **Address:**
+
+
+>[!note] ## Notes
+
+>[!abstract] ## Photos
+
+
+>[!info] ## Files
+
